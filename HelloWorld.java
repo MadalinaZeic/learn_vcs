@@ -1,5 +1,6 @@
-// learning vsc
+// learning vcs
 
+// learning to collaborate on Git repositories
 public class HelloWorld {
 	
 	public static void main(String[] args) {
